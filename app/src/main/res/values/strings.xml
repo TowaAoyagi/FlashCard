@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlashCard</string>
+
+    <string name="piero_title">Piero</string>
+    <string name="piero_content">・Piero is funny person /n・Piero is good at ridding ball</string>
+    <string name="piero_meaning">ピエロ</string>
+
+    <string name="pregident_title">Pregident</string>
+    <string name="pregident_content">・Pregident is top person in country /n・Pregident have responsible</string>
+    <string name="pregident_meaning">大統領</string>
+
+    <string name="samurai_title">Samurai</string>
+    <string name="samurai_content">・Samurai is fighter in Edo /n・Samurai have Katana</string>
+    <string name="samurai_meaning">侍</string>
+
+    <string name="fire_title">Fire</string>
+    <string name="fire_content">・Fire is warm /n・Fire is had by people</string>
+    <string name="fire_meaning">松明taimatu</string>
+</resources>
